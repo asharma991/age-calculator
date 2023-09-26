@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "Poppins400I";
+  src: local("Poppins400I"), url("./assets/fonts/Poppins-Italic.ttf");
+}
+
+@font-face {
+  font-family: "Poppins700";
+  src: local("Poppins700"), url("./assets/fonts/Poppins-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Poppins800I";
+  src: local("Poppins800I"), url("./assets/fonts/Poppins-ExtraBoldItalic.ttf");
+}
