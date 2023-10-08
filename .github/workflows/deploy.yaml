@@ -19,8 +19,7 @@ jobs:
           node-version: 18.18.0
 
       - name: Install Dependencies
-        run: npm install pnpm
-        run: pnpm install
+        run: npm install pnpm && pnpm install
 
       - name: Build Website
         run: pnpm build
