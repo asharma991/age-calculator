@@ -36,13 +36,14 @@ Users should be able to:
 - **Bonus**: See the age numbers animate to their final number when the form is submitted
 
 ### Screenshot
+Desktop: ![image](https://github.com/asharma991/age-calculator/assets/63816545/e08bcf59-6397-40ce-8cf8-6412e4115022)
+Mobile: ![image](https://github.com/asharma991/age-calculator/assets/63816545/f28a2d55-0d78-4e13-84f4-dbf0a6d92a5d)
 
-![](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/asharma991/age-calculator/)
+- Live Site URL: [Add live site URL here](https://asharma991.github.io/age-calculator/)
 
 ## My process
 
