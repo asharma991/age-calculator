@@ -5,7 +5,6 @@ import {
   FormLabel,
   Grid,
   Input,
-  Text,
 } from "@chakra-ui/react";
 import React from "react";
 import { FormData, FormErrors } from "../types";
@@ -29,7 +28,7 @@ const Form = (props: FormProps) => {
         },
       }}
     >
-      {Object.keys(formData).map((key) => {
+      {(Object.keys(formData) as (keyof FormData)[]).map((key) => {
         return (
           <Grid gap={2} key={key}>
             <FormControl isInvalid={Boolean(formErrors?.[key])}>
