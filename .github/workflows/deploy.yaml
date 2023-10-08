@@ -19,10 +19,10 @@ jobs:
           node-version: 18.18.0
 
       - name: Install Dependencies
-        run: npm install pnpm && pnpm install
+        run: yarn
 
       - name: Build Website
-        run: pnpm build
+        run: yarn build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
