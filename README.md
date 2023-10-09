@@ -42,8 +42,8 @@ Mobile: ![image](https://github.com/asharma991/age-calculator/assets/63816545/f2
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/asharma991/age-calculator/)
-- Live Site URL: [Add live site URL here](https://asharma991.github.io/age-calculator/)
+- Solution URL: [Repo Link](https://github.com/asharma991/age-calculator/)
+- Live Site URL: [Hosted Link](https://asharma991.github.io/age-calculator/)
 
 ## My process
 
